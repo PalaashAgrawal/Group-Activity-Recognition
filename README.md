@@ -7,4 +7,6 @@ Clone this repo, and download the datasetsin a separate directory under the clon
 2. Volleyball Dataset: http://vml.cs.sfu.ca/wp-content/uploads/volleyballdataset/volleyball.zip
 (source: https://github.com/mostafa-saad/deep-activity-rec)
 
+The Collective Activity Dataset is only 979 MB in size. However the Volleyball dataset is 57.8 GB in size. Hence, you may choose to test this model only on the CAD dataset, and/or, if you have the resources, the Volleybal dataset as well.  
+
 Code will be released as and when is finalized 
